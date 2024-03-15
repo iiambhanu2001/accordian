@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iiambhanu2001/accordian.github.io/static/css/main.113f7c57.css",
-    "main.js": "/iiambhanu2001/accordian.github.io/static/js/main.93b71a1f.js",
-    "static/js/453.195da316.chunk.js": "/iiambhanu2001/accordian.github.io/static/js/453.195da316.chunk.js",
-    "index.html": "/iiambhanu2001/accordian.github.io/index.html",
-    "main.113f7c57.css.map": "/iiambhanu2001/accordian.github.io/static/css/main.113f7c57.css.map",
-    "main.93b71a1f.js.map": "/iiambhanu2001/accordian.github.io/static/js/main.93b71a1f.js.map",
-    "453.195da316.chunk.js.map": "/iiambhanu2001/accordian.github.io/static/js/453.195da316.chunk.js.map"
+    "main.css": "/iiambhanu2001/accordian/static/css/main.113f7c57.css",
+    "main.js": "/iiambhanu2001/accordian/static/js/main.b3bb26f5.js",
+    "static/js/453.195da316.chunk.js": "/iiambhanu2001/accordian/static/js/453.195da316.chunk.js",
+    "index.html": "/iiambhanu2001/accordian/index.html",
+    "main.113f7c57.css.map": "/iiambhanu2001/accordian/static/css/main.113f7c57.css.map",
+    "main.b3bb26f5.js.map": "/iiambhanu2001/accordian/static/js/main.b3bb26f5.js.map",
+    "453.195da316.chunk.js.map": "/iiambhanu2001/accordian/static/js/453.195da316.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.113f7c57.css",
-    "static/js/main.93b71a1f.js"
+    "static/js/main.b3bb26f5.js"
   ]
 }
